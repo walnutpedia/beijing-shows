@@ -16,7 +16,7 @@
 title: 北京演出审批月报
 description: >- # this means to ignore newlines until "baseurl:"
   自动更新每月北京市最新审批通过的演艺信息
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/beijing-shows" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: walnutpedia
 permalink: /:year/:month/:title:output_ext
