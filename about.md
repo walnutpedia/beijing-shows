@@ -12,4 +12,4 @@ permalink: /about/
 
 Peace & Love.
 
-[联系作者]: https://www.douban.com/people/zeros/
+联系作者: [豆瓣](https://www.douban.com/people/zeros/) \| [GitHub](https://github.com/walnutpedia)
